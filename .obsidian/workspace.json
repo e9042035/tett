@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "7ca3ef7168f88c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a0b54ef200ed8b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe423b73dac469e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/testtttteee.png"
+              }
+            }
+          },
+          {
+            "id": "0bace50abea1c438",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/testtttteee.png"
+              }
+            }
+          },
+          {
+            "id": "0c0a6d007d000f60",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/ttte.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9aeb5822bb42a28",
+    "type": "split",
+    "children": [
+      {
+        "id": "08e02baac975651a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ae74414dc9b1edf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db7026a5323c84ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73e584ecd43b4950",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd10a4ea985186bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "59094ce1d2002fe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92432f7d26cc8b51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "images/ttte.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04653574fa135cd2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "images/ttte.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a7f0acefa437aaf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b63571fcb1e6ac6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "images/ttte.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "9ae74414dc9b1edf",
+  "lastOpenFiles": [
+    "images/testtttteee.png",
+    "123.md",
+    "images/ttte.png",
+    "images"
+  ]
+}
